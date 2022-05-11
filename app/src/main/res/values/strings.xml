@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Stone, Paper and Scissor</string>
+    <string name="createdBy">Created By Yash</string>
+    <string name="imageDesc">Stone, Paper and Scissor</string>
+    <string name="Stone">Stone</string>
+    <string name="Paper">Paper</string>
+    <string name="Scissor">Scissor</string>
+
+</resources>
